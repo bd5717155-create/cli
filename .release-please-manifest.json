@@ -1,5 +1,5 @@
 {
-  ".": "11.6.1",
+  ".": "11.6.2",
   "workspaces/arborist": "9.1.5",
   "workspaces/libnpmaccess": "10.0.2",
   "workspaces/libnpmdiff": "8.0.8",
