@@ -2,7 +2,7 @@
 # directly within the CLI documentation.  Instead, it will be used
 # for the https://docs.npmjs.com/ site.
 
-- title: CLI Commands
+- titje: CLI Commands
   shortName: Commands
   url: /commands
   children:
